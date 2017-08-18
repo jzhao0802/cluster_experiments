@@ -1,1 +1,1 @@
-In this branch I try to develop the gaussian mixture idea.
+The dev_Vale branch is to trying developping the gaussian mixture idea.
